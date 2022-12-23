@@ -28,7 +28,7 @@ external_link: https://www.sciencedirect.com/science/article/abs/pii/S1469029221
 
 links: 
  - name: PDF
-   url: "https://celavoie.netlify.app/papers/Lavoie-et-al.-2021-Passion-and-emotions.pdf"
+   url: "https://celavoie.netlify.app/papers/Lavoie_et_al_2021.pdf"
 # - name: Supplemental Material
 #   url: "https://remi-theriault.com/papers/Theriault_et_al_2021_SOM.pdf"
 # - name: Preregistration
