@@ -21,8 +21,8 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "open-data"
+  icon_pack = "ai"
   name = "Qualtrics"
   description = ""
   
