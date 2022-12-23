@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Rémi Thériault
+title: Charles-Étienne Lavoie
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student (Social Psychology)
+role: PhD Student (Organizational Psychology)
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -17,28 +17,27 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include social/implicit cognition, altruism, and dreams.
+# To modify
+bio: My research interests are passion and motivation, work-life balance, emotion regulation strategies, and cognition and coping strategies that support successful stress management and optimal functioning in work and sport.
 
 # Interests to show in About widget
+# To modify
 interests:
-  - Implicit attitudes
-  - Self-regulation
-  - Morality
-  - Dreams
-  - Body ownership
+  - Self-Determination Theory
+  - Self-regulation within a role (e.g., motivation, emotion regulation, coping) 
+  - Regulation of interface between roles (e.g., work-life conflicts/enrichment/balance)
+  - Passion (dualistic model of passion)
+  - Implications of organizational structures and systems for motivation
 
 # Education to show in About widget
 education:
   courses:   
   - course: PhD in Psychology
-    institution: Université du Québec à Montréal
-    year: 2024
-  - course: MSc in Psychiatry
-    institution: McGill University
+    institution: Université du Québec à Montréal (UQAM)
+    year: 2026
+  - course: B.Psych.
+    institution: Université du Québec à Montréal (UQAM)
     year: 2018
-  - course: BA in Psychology
-    institution: McGill University
-    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,31 +46,29 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:theriault.remi@courrier.uqam.ca
+    link: mailto:lavoie.charles-etienne@courrier.uqam.ca
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=NrfwEncAAAAJ
+    #link: https://scholar.google.com/citations?user=NrfwEncAAAAJ
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Remi_Theriault
+    #link: https://www.researchgate.net/profile/Remi_Theriault
   - icon: academia
     icon_pack: ai
-    link: https://uqam.academia.edu/RemiTheriault
+    #link: https://uqam.academia.edu/RemiTheriault
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/rempsyc
+    #link: https://twitter.com/rempsyc
   - icon: github
     icon_pack: fab
-    link: https://github.com/rempsyc
+    link: https://github.com/CharlesEtienneLavoie
   - icon: coffee
     icon_pack: fas
-    link: https://www.paypal.com/paypalme/rempsyc
+    #link: https://paypal.me/lavoiece
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 ---
 
-Rémi Thériault obtained his BA Psychology and MSc Psychiatry from McGill University, Montréal, Québec. His undergraduate research has principally focused on exploring the mind-body connection through the placebo effect and the malleability of the sense of embodiment. His Master’s research focused on psychological strategies to increase empathy and reduce intergroup prejudice, such as taking others’ perspective using virtual reality technology. His current doctoral research at UQAM explores ways to boost altruism and reduce aggression through loving-kindness meditation. Overall, Rémi is passionate about putting social-psychological research to use to increase people’s wellbeing and intrinsic motivation to help one another.
-
-His research interests center around three themes: (1) self-control and morality, (2) attention and concentration, and (3) wisdom and integrity.
+Charles-Étienne Lavoie obtained his bachelor's degree in psychology at the Université du Québec à Montréal and is currently a doctoral student in organizational psychology (Psy.D./Ph.D.) at UQAM. During his undergraduate studies, he completed his honors thesis under the supervision of Professor Robert J. Vallerand (Ph.D) on the role of cognitive appraisals in the relationship between passion and emotions experienced by athletes during important games. He is now doing his thesis under the supervision of Professor Nathalie Houlfort (Ph.D) on how workers cope with work-family conflicts episodes behaviorally (coping strategies) and emotionally (emotion regulation strategies). Charles-Étienne is passionate about learning and facilitating best practices in research and analysis with his research colleagues, and applying good research to the benefit of optimal worker and athlete functioning.
