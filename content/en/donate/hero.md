@@ -52,5 +52,3 @@ hero_media = "hero-academic.jpg"
 +++
 
 The PhD journey is a long one. Exceptional perseverance is critical to traverse a road filled with challenges and obstacles, in sometimes suboptimal conditions. But you can help, too. Consider supporting me and my mission by buying me a coffee. Every donation makes a difference, no matter how small.
-
-# Do you believe in the work I do, enjoy my blogs, use my functions and tutorials, or would just like to help me complete my PhD studies?
