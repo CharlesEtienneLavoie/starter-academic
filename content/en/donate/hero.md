@@ -37,7 +37,7 @@ hero_media = "hero-academic.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://www.paypal.com/paypalme/rempsyc"
+  url = "https://www.paypal.com/paypalme/lavoiece"
   label = "Support me and my mission"
   icon_pack = "fas"
   icon = "coffee"
@@ -51,4 +51,6 @@ hero_media = "hero-academic.jpg"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-The PhD journey is a long one. Exceptional perseverance is critical to traverse a road filled with challenges and obstacles, in sometimes suboptimal conditions. But you can help, too. Do you believe in the work I do, enjoy my blogs, use my functions and tutorials, or would just like to help me complete my PhD studies? Consider supporting me and my mission by buying me a coffee. Every donation makes a difference, no matter how small.
+The PhD journey is a long one. Exceptional perseverance is critical to traverse a road filled with challenges and obstacles, in sometimes suboptimal conditions. But you can help, too. Consider supporting me and my mission by buying me a coffee. Every donation makes a difference, no matter how small.
+
+# Do you believe in the work I do, enjoy my blogs, use my functions and tutorials, or would just like to help me complete my PhD studies?

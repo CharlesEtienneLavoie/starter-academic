@@ -18,25 +18,25 @@
   url = "publications"
   weight = 30
 
-[[main]]
-  name = "News"
-  url = "news"
-  weight = 40
+#[[main]]
+#  name = "News"
+#  url = "news"
+#  weight = 40
 
-[[main]]
-  name = "Blog"
-  url = "blog"
-  weight = 45
+#[[main]]
+#  name = "Blog"
+#  url = "blog"
+#  weight = 45
 
-[[main]]
-  name = "Media"
-  url = "media"
-  weight = 50
+#[[main]]
+#  name = "Media"
+#  url = "media"
+#  weight = 50
   
-[[main]]
-  name = "R Tutorials"
-  url = "tutorials"
-  weight = 60
+#[[main]]
+#  name = "R Tutorials"
+#  url = "tutorials"
+#  weight = 60
   
  [[main]]
   name = "Contact"
