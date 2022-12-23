@@ -29,4 +29,3 @@ design:
   columns: '2'
 ---
 
-#![SU](SU.jpg)
