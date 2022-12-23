@@ -1,5 +1,5 @@
 
-# Welcome to my academic website, [remi-theriault.com](https://remi-theriault.com)
+# Welcome to my academic website, [celavoie.netlify.app](https://celavoie.netlify.app/)
 
 This site was built using (and adapting) the Academic Template for [Hugo](https://github.com/gohugoio/hugo). The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications. [**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
 
