@@ -1,15 +1,16 @@
 ---
-title: "Body swapping with a Black person boosts empathy: Using virtual reality to embody another"
+title: "Passion and emotions: The mediating role of cognitive appraisals"
 
 # Publication name and optional abbreviated publication name.
-publication: "*Quarterly Journal of Experimental Psychology*, *74*(12), 2057-2074. <a href='https://doi.org/10.1177/17470218211024826' target='_blank' rel='noopener noreferrer'>doi.org/10.1177/17470218211024826</a>"
+publication: "*Psychology of Sport and Exercise*, *54*(12), 2057-2074. <a href='https://doi.org/10.1016/j.psychsport.2021.101907' target='_blank' rel='noopener noreferrer'>10.1016/j.psychsport.2021.101907</a>"
 #publication_short: 
 
+#Lavoie, C. E., Vallerand, R. J., & Verner-Filion, J. (2021). Passion and emotions: The mediating role of cognitive #appraisals. Psychology of Sport and Exercise, 54, 101907.
+
 authors:
-- Rémi Thériault
-- Jay A. Olson
-- Sonia A. Krol
-- Amir Raz
+- Charles-Étienne Lavoie
+- Robert J. Vallerand
+- Jérémie Verner-Filion
 
 publication_types:
 - "2"
@@ -19,11 +20,11 @@ add_badge: true
 
 featured: true
 
-date: "2021-05-28T00:00:00-04:00"
+date: "2021-02-01T00:00:00-04:00"
 
-doi: "10.1177/17470218211024826"
+doi: "10.1016/j.psychsport.2021.101907"
 
-external_link: https://journals.sagepub.com/doi/abs/10.1177/17470218211024826
+external_link: https://www.sciencedirect.com/science/article/abs/pii/S146902922100025X
 
 links: 
  - name: PDF

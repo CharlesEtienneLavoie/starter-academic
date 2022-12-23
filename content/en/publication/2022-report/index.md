@@ -1,5 +1,5 @@
 ---
-title: "report: From R to your manuscript"
+title: "Passion and emotions: The mediating role of cognitive appraisals."
 
 # Publication name and optional abbreviated publication name.
 publication: "(R package version 0.5.5.3) [Computer software]. <a href='https://easystats.github.io/report' target='_blank' rel='noopener noreferrer'>easystats.github.io/report</a>"
@@ -8,12 +8,9 @@ publication: "(R package version 0.5.5.3) [Computer software]. <a href='https://
 
 authors:
 
-- Dominique Makowski
-- Daniel Lüdecke
-- Mattan S. Ben-Shachar
-- Indrajeet Patil
-- Brenton M. Wiernik
-- Rémi Thériault
+- Charles-Étienne Lavoie
+- Robert J. Vallerand
+- Jérémie Verner-Filion
 
 publication_types:
 - "2"
@@ -23,9 +20,9 @@ add_badge: true
 
 featured: true
 
-date: "2022-12-18T00:00:00-04:00"
+date: "2021-02-01T00:00:00-04:00"
 
-doi: ""
+doi: "10.1016/j.psychsport.2021.101907"
 
 external_link: 
 
