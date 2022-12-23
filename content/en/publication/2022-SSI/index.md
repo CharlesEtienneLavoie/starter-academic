@@ -5,23 +5,21 @@ title: "The Right to Disconnect"
 publication: "*Stanford Social Innovation Review* <a href='https://doi.org/10.48558/psa0-te13' target='_blank' rel='noopener noreferrer'>10.48558/psa0-te13</a>"
 #publication_short: 
 
-#Brassard, N., Lavoie, C. É., & Youmbi, H. D. (2022). Présent et futur des adaptations positives à la pandémie de COVID-19: #résilience, bonnes pratiques et stratégies employées deux ans plus tard. Ad machina, (6), 2-12.
-
 authors:
--Sabrina Pellerin
--Ariane Ollier-Malaterre
--Ellen Ernst Kossek
--Marie-Colombe Afota
--Luc Cousineau
--Charles-Étienne Lavoie
--Emmanuelle Leon
--Barbara Beham
--Gabriele Morandin
--Marcello Russo
--Ameeta Jaga
--Jichang Ma
--Chang-qin Lu
--Xavier Parent-Rocheleau
+- Sabrina Pellerin
+- Ariane Ollier-Malaterre
+- Ellen Ernst Kossek
+- Marie-Colombe Afota
+- Luc Cousineau
+- Charles-Étienne Lavoie
+- Emmanuelle Leon
+- Barbara Beham
+- Gabriele Morandin
+- Marcello Russo
+- Ameeta Jaga
+- Jichang Ma
+- Chang-qin Lu
+- Xavier Parent-Rocheleau
 
 publication_types:
 - "2"
